@@ -17,3 +17,6 @@ You can install the required dependencies with the following command:
 pip install -r requirements.txt
 
 
+### Alternatively, you can install dependencies manually:
+pip install torch transformers Pillow Flask
+
